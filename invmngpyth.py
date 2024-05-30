@@ -248,7 +248,7 @@ def display_soldinv_PieChart():
                     inventory[item_desc] = int(item_qty)
 
         if not inventory:
-            print("No items have been removed. Cannot display pie chart.")
+            print("No items have been sold. Cannot display pie chart.")
             return
         
         labels = list(inventory.keys())
