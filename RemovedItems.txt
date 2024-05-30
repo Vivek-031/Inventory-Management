@@ -1,0 +1,9 @@
+tables,14
+Geomentry Box,12
+ac,5
+markers,8
+tables,10
+Geomentry Boxes,6
+boards,8
+colour pencils,5
+colour pencils,1
